@@ -4,6 +4,8 @@
 /node_modules
 /build
 /.pnp
+/public
+/storybook-static
 .pnp.js
 
 # testing
